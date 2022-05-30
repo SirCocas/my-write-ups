@@ -2,7 +2,7 @@ To find this flag, we first need to look at what we have so far.
 
 First of all, in the first line, it almost looks like a flag could be there, but the letters are jumbled up - this means that this is probably a transposition cipher.
 
-The second character is a comma, and there are no capitalized letters, other than the ones that we think probably belong to the flag.
+The second character is a comma, and there are no capitalized letters, other than the ones that we think probably belong to the flag. So, the first letter is almost certainly internet slang. 
 
 > t,bwhr e' esoryufa l:Cg FATUYd{0Hs440hNtnO1gM}n3
 
