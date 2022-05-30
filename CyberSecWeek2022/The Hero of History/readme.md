@@ -6,7 +6,7 @@ This problem also has two flag files, which reinforces that theory.
 
 The Lorenz machine has twelve switches.
 
-What if the author used the same magic number to create a pattern as they did in other challenges?
+What if the author used the same magic number to create a pattern as they did in other challenges? The description does mention reuse of keys...
 
 If one were to solve Hidden, another challenge in this CTF, one would already know that this author has used the sequence of numbers '1312520'.
 
